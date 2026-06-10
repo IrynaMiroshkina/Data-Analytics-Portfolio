@@ -92,5 +92,5 @@ After extracting and preparing the aggregated dataset via SQL, the data was migr
 ---
 
 ## 📂 Project Deliverables
-* 📂 **[View SQL Script](user-retention-cohort-analysis/SQL-code.sql)** — Production-ready SQL query for data extraction and text-to-date conversion.
+* 📂 **[View SQL Script](https://github.com/IrynaMiroshkina/Data-Analytics-Portfolio/commit/4e801879bc70dd528959a101a073a38fc0a69585)** — Production-ready SQL query for data extraction and text-to-date conversion.
 * 📊 **[Interactive Google Sheets Dashboard](https://link-to-your-google-sheet)** — Cohort tables, dynamic slicers, and performance analysis.
