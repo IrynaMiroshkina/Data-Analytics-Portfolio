@@ -4,5 +4,5 @@ With a solid background in Systems Engineering, I approach data through a lens o
 
 Inside this portfolio, you will find dedicated directories for individual projects:
 *   **User Retention & Cohort Analysis**
-*
+*   **Developer Ecosystem & Compensation Analysis**
 *   
