@@ -16,5 +16,5 @@ After extracting the files, place them directly into this `data/` folder. Ensure
 ```text
 data/
 ├── README.md                      # This directory description file
-├── survey_results_public.csv      # The main survey responses dataset
-└── survey_results_schema.csv      # The metadata schema containing question profiles
+├── results.csv      # The main survey responses dataset
+└── schema.csv      # The metadata schema containing question profiles
