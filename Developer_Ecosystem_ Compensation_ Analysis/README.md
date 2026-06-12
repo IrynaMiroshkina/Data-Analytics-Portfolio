@@ -42,7 +42,6 @@ The project showcases advanced data manipulation, handling of missing values, st
 ## 📂 Project Structure Inside Repository
 
 ```text
-├── README.md                      # Detailed project summary and overview
+├── README.md                       # Detailed project summary and overview
 ├── developer_survey_analysis.ipynb # Fully executed Google Colab with code and outputs
-├── script_solution.py             # Raw Python script containing standalone analytical code
-└── data/                          # Folder for survey data 
+└── data/                           # Folder for survey data 
